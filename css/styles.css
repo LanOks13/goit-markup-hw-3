@@ -456,8 +456,7 @@ address .item:not(:last-child) {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  margin-bottom: 34px;
-  padding-bottom: 16px;
+  margin-bottom: 50px;
   align-items: center;
 }
 
